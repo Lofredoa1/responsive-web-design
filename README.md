@@ -456,16 +456,6 @@ It's 2020. We don't build non-responsive websites anymore!
 
 <hr>
 
-## Bonus
-
-Download and Install [https://responsively.app/](https://responsively.app/)
-
-This will allow you to develop a site and visualize all viewports simultaneously 
-
-<img src="https://i.imgur.com/N09b1cm.png" width=500/>
-
-
-
 
 
 ## Resources
